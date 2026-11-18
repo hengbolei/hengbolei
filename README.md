@@ -20,7 +20,7 @@ traced back to their sources.
 **Research and evaluation**
 
 - [**fractional-tde-classification**](https://github.com/hengbolei/fractional-tde-classification)
-  · *thesis project*: classifies tidal disruption events in simulated LSST light curves
+  · *undergraduate thesis*: classifies tidal disruption events in simulated LSST light curves
   (MALLORN data, 3,043 objects, 148 TDEs) using FFT-based fractional-order derivative features.
   Fused features with LightGBM reach AUC 0.885, with ablations over the derivative order and
   photometric band, statistical tests and SHAP analysis.
