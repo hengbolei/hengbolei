@@ -23,7 +23,7 @@ traced back to their sources.
   · *undergraduate thesis*: classifies tidal disruption events in simulated LSST light curves
   (MALLORN data, 3,043 objects, 148 TDEs) using FFT-based fractional-order derivative features.
   Fused features with LightGBM reach AUC 0.885, with ablations over the derivative order and
-  photometric band, statistical tests and SHAP analysis.
+  photometric band, statistical tests, SHAP analysis and a documented reproduction.
 - [**VizJudge**](https://github.com/hengbolei/VizJudge): ranks candidate charts by
   cross-validated incremental gain and turns the evidence into ML actions. A
   [downstream-model benchmark](https://github.com/hengbolei/VizJudge/blob/main/docs/benchmark.md)
